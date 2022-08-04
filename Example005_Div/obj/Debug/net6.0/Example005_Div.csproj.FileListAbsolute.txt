@@ -1,0 +1,15 @@
+C:\Users\Рита\Desktop\Examples\Example005_Div\bin\Debug\net6.0\Example005_Div.exe
+C:\Users\Рита\Desktop\Examples\Example005_Div\bin\Debug\net6.0\Example005_Div.deps.json
+C:\Users\Рита\Desktop\Examples\Example005_Div\bin\Debug\net6.0\Example005_Div.runtimeconfig.json
+C:\Users\Рита\Desktop\Examples\Example005_Div\bin\Debug\net6.0\Example005_Div.dll
+C:\Users\Рита\Desktop\Examples\Example005_Div\bin\Debug\net6.0\Example005_Div.pdb
+C:\Users\Рита\Desktop\Examples\Example005_Div\obj\Debug\net6.0\Example005_Div.csproj.AssemblyReference.cache
+C:\Users\Рита\Desktop\Examples\Example005_Div\obj\Debug\net6.0\Example005_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рита\Desktop\Examples\Example005_Div\obj\Debug\net6.0\Example005_Div.AssemblyInfoInputs.cache
+C:\Users\Рита\Desktop\Examples\Example005_Div\obj\Debug\net6.0\Example005_Div.AssemblyInfo.cs
+C:\Users\Рита\Desktop\Examples\Example005_Div\obj\Debug\net6.0\Example005_Div.csproj.CoreCompileInputs.cache
+C:\Users\Рита\Desktop\Examples\Example005_Div\obj\Debug\net6.0\Example005_Div.dll
+C:\Users\Рита\Desktop\Examples\Example005_Div\obj\Debug\net6.0\refint\Example005_Div.dll
+C:\Users\Рита\Desktop\Examples\Example005_Div\obj\Debug\net6.0\Example005_Div.pdb
+C:\Users\Рита\Desktop\Examples\Example005_Div\obj\Debug\net6.0\Example005_Div.genruntimeconfig.cache
+C:\Users\Рита\Desktop\Examples\Example005_Div\obj\Debug\net6.0\ref\Example005_Div.dll
