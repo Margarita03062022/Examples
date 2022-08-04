@@ -1,0 +1,15 @@
+C:\Users\Рита\Desktop\Examples\Example004_Sum\bin\Debug\net6.0\Example004_Sum.exe
+C:\Users\Рита\Desktop\Examples\Example004_Sum\bin\Debug\net6.0\Example004_Sum.deps.json
+C:\Users\Рита\Desktop\Examples\Example004_Sum\bin\Debug\net6.0\Example004_Sum.runtimeconfig.json
+C:\Users\Рита\Desktop\Examples\Example004_Sum\bin\Debug\net6.0\Example004_Sum.dll
+C:\Users\Рита\Desktop\Examples\Example004_Sum\bin\Debug\net6.0\Example004_Sum.pdb
+C:\Users\Рита\Desktop\Examples\Example004_Sum\obj\Debug\net6.0\Example004_Sum.csproj.AssemblyReference.cache
+C:\Users\Рита\Desktop\Examples\Example004_Sum\obj\Debug\net6.0\Example004_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рита\Desktop\Examples\Example004_Sum\obj\Debug\net6.0\Example004_Sum.AssemblyInfoInputs.cache
+C:\Users\Рита\Desktop\Examples\Example004_Sum\obj\Debug\net6.0\Example004_Sum.AssemblyInfo.cs
+C:\Users\Рита\Desktop\Examples\Example004_Sum\obj\Debug\net6.0\Example004_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Рита\Desktop\Examples\Example004_Sum\obj\Debug\net6.0\Example004_Sum.dll
+C:\Users\Рита\Desktop\Examples\Example004_Sum\obj\Debug\net6.0\refint\Example004_Sum.dll
+C:\Users\Рита\Desktop\Examples\Example004_Sum\obj\Debug\net6.0\Example004_Sum.pdb
+C:\Users\Рита\Desktop\Examples\Example004_Sum\obj\Debug\net6.0\Example004_Sum.genruntimeconfig.cache
+C:\Users\Рита\Desktop\Examples\Example004_Sum\obj\Debug\net6.0\ref\Example004_Sum.dll
